@@ -1,6 +1,6 @@
 ## Welcome to my Github, I am Nomonde Katlego 👋
 
-<h> About Me </h>
+<h1><b> About Me</b></h1>
 <p> Nomonde Khalo is a PhD student at the University of Cape Town and a Research Fellow
 at the Hasso Plattner Institute. Her research focuses on Natural Language Processing
 (NLP) and Clinical NLP, with a particular interest in leveraging artificial intelligence to
