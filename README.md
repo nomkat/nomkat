@@ -17,6 +17,10 @@ industry experience as a Data Analyst at Nedbank and Momentum Limited.
 Beyond her academic pursuits, Nomonde is actively involved in community
 development, tutoring computer programming and mathematics. She also serves as a
 committee member for Deep Learning IndabaX South Africa, supporting the spread of knowledge and capacity in machine learning across the African continent.   </p>
+## Check my website ...
+
+
+
 <!--
 **nomkat/nomkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
